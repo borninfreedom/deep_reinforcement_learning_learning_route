@@ -125,7 +125,12 @@ Effective Python：同样得益于Effective C++的成功，Python也推出了这
 
 我用阿里云盘分享了「计算机网络」，你可以不限速下载🚀 复制这段内容打开「阿里云盘」App 即可获取 链接：https://www.aliyundrive.com/s/U8F76tNMr8h
 
+---
 
+**关于计算机的基础知识如果想快速的掌握重点知识的话，可以阅读这个链接的文章，https://wdxtub.com/interview/index.html**
+
+
+---
 
 
 
